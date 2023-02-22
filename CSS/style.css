@@ -1,0 +1,11 @@
+.header{
+    padding: 10px 30px 10px 30px;
+    background: transparent;
+    position: absolute;
+    z-index: 1;
+    height:80px;
+}
+
+.logo-box{
+    width:80px;
+}
